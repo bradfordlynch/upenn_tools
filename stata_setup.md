@@ -19,7 +19,7 @@
 ### Missing Packages
 Stata makes use of several packages which are no longer part of the latest Ubuntu LTS releases. Thus these need to be installed manually:
 
-1. libpng012 - Available [here](https://packages.ubuntu.com/xenial/amd64/libpng12-0/download).
+1. (*N.B.* This isn't necessary if the PNG fix below is applied.)libpng012 - Available [here](https://packages.ubuntu.com/xenial/amd64/libpng12-0/download).
 2. canberra-gtk-module - Install with apt: `$ apt install libcanberra-gtk*`
 
 ### Broken PNG Icon Issue
