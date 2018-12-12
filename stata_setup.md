@@ -20,3 +20,4 @@ Stata makes use of several packages which are no longer part of the latest Ubunt
 
 1. libpng012 - Available [here](https://packages.ubuntu.com/xenial/amd64/libpng12-0/download)
 2. canberra-gtk-module - Install with apt: `$ apt install libcanberra-gtk*`
+3. Broken PNG fix - Stata community has developed a fix for this and is available [here](https://github.com/kylebarron/stata-png-fix)
