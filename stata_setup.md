@@ -1,5 +1,5 @@
 # Stata Setup
-## Official Instructions from Stat
+## Official Instructions from Stata
 - Download Stata15Linux64.tar.gz.
 - Become superuser and extract the gzipped tar file into an empty directory.
 - Make the installation directory /usr/local/stata15 and cd into it.
