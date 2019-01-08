@@ -1,6 +1,6 @@
 # Working With Wharton's HPCC
 ## Setting up Python
-Wharton Research IT's official docs are [here](https://research-it.wharton.upenn.edu/tools/python/])
+Wharton Research IT's official docs are [here](https://research-it.wharton.upenn.edu/tools/python/)
 
 Setup happens on an actual compute node, so open an interactive session:
 
